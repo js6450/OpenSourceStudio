@@ -126,3 +126,12 @@ iframe{
 .full-img{
     width: 100%;
 }
+
+p{
+    text-align: justify;
+}
+
+.date-text{
+    text-align: right;
+    color: #848484;
+}
