@@ -127,6 +127,12 @@ iframe{
     width: 100%;
 }
 
+.mid-img{
+    width: 70%;
+    display: block;
+    margin: auto;
+}
+
 p{
     text-align: justify;
 }
