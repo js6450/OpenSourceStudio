@@ -123,6 +123,15 @@ iframe{
     color: magenta;
 }
 
+p{
+    text-align: justify;
+}
+
+.date-text{
+    text-align: right;
+    color: #848484;
+}
+
 .full-img{
     width: 100%;
 }
@@ -133,11 +142,11 @@ iframe{
     margin: auto;
 }
 
-p{
-    text-align: justify;
+.two-grid{
+    display: block;
+    margin: auto;
 }
 
-.date-text{
-    text-align: right;
-    color: #848484;
+.two-grid-img{
+    width: 49%;
 }
